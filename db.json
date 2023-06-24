@@ -1,0 +1,45 @@
+{
+  "restaurants": [
+    {
+      "id": 2,
+      "name": "kitabiChai",
+      "address": "NIBM",
+      "email": "kitabiChai@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "leafytrails",
+      "address": "kothrud",
+      "email": "leafytrails@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Hood",
+      "address": "NIBM",
+      "email": "Hood@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "CROSSWORD",
+      "address": "FC Road",
+      "email": "CROSSWORD@gmail.com"
+    },
+    {
+      "name": "Alisha",
+      "email": "alisha.bhale@gmail.com",
+      "address": "asd",
+      "id": 6
+    },
+    {
+      "name": "mehtus",
+      "email": "mehta@gmail.com",
+      "address": "adasdsd",
+      "id": 8
+    }
+  ],
+  "users": {
+    "name": "New user",
+    "email": "newUser@gmail.com",
+    "password": "asdas"
+  }
+}
